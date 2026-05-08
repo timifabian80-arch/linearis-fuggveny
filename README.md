@@ -1,0 +1,2 @@
+# linearis-fuggveny
+IKT beadandó
